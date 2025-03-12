@@ -27,6 +27,7 @@
 ### Modern Tools
 - Data Science
 - Cloud Computing
+- Artificial Intelligence
 
 ### Databases
 - MsSQL
