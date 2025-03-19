@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Bachelor Of Computer Engineering (B.E. Computer Engineering) 2022 Batch
-- 👨‍💻 Over 2 Years of Experience
+- 👨‍💻 Over 3 Years of Experience
 - 📅 24 years old, born on 03 October 2000
 
 ## Skills
